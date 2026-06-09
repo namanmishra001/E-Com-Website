@@ -1,0 +1,6 @@
+{
+  "name": "Gupta Emporium",
+  "description": "A static website for business Gupta Emporium featuring a product catalog, contact form, and embedded map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
